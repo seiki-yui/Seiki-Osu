@@ -1,0 +1,18 @@
+𝚂𝚎𝚒𝚔𝚒 𝙾𝚜𝚞
+
+MIRAI 2.10.1
+LISTEN GNU-AGPL3
+VER 1.0
+
+# Seiki-Osu
+
+JAR seiki-osu-1.0.mirai.jar
+PACK org.seiki.plugin.SeikiOsu
+ID org.seiki.osu
+VER 1.0
+DEP SkikoMirai(>=1.0.6)
+
+# Osu
+
+USE # osu
+REGEX /\s*#\s*[oO][sS][uU]!?\s*(.{1,10})?\s*/
