@@ -20,10 +20,10 @@ object SeikiOsu : KotlinPlugin(
     JvmPluginDescription(
         id = "org.seiki.osu",
         name = "SeikiOsu",
-        version = "1.0",
+        version = "1.1",
     ) {
         author("xiao-zheng233")
-        dependsOn("org.laolittle.plugin.SkikoMirai", ">=1.0.3", true)
+//        dependsOn("org.laolittle.plugin.SkikoMirai", ">=1.0.3", true)
     }
 ) {
     override fun onEnable() {
