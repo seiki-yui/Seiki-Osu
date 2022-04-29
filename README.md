@@ -1,4 +1,5 @@
 # Seiki-Osu
+## [![](https://img.shields.io/github/v/release/xiao-zheng233/Seiki-Osu.svg)](https://github.com/xiao-zheng233/Seiki-Osu/stargazers)
 > 一个简单的运行在 `Mirai-Console` 的 OSU 图标生成器插件。
 
 ## 如何配置
